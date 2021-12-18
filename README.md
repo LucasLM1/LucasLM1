@@ -81,7 +81,7 @@ Ultilizo o GitHub para salvar códigos de aplicações criadas tanto por mim qua
  </div>
       
 ### Minhas informações aqui no GitHub:
-<div align = "center" style="display: flex;>
+<div align = "center">
 <a href="https://github.com/LucasLM1">
   <img height="162px" src="https://github-readme-stats.vercel.app/api?username=LucasLM1&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,4169E1,C71585,00008B" /></a>  <!-- do primeiro para o ultimo -->
 <a href="https://github.com/LucasLM1">
