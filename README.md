@@ -14,16 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá, me chamo Lucas👋🏾
-### Seja bem-vinde ao meu GitHub<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Olá, me chamo Lucas!
+### Seja bem-vindo(a) ao meu GitHub<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas de maneira segura e também que possam estar ajudando novas pessoas no mundo da programação😁
+<!--Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas de maneira segura e também que possam estar ajudando novas pessoas no mundo da programação😁-->
+Ultilizo o GitHub para salvar códigos de aplicações criadas tanto por mim quanto em grupo, ajudar em relouções de problemas, absorver novos tipos de conteúdos e conhecimentos, ajudar pessoas programadoras e claro, conhecer inúmeros projetos desenvolvidos pelas mesmas.😁
 
 
 #### 🔰 Sempre buscando novas maneiras de me tornar uma pessoa melhor 🔰
 • 🎓 Desenvolvedor Fullstack Java Jr. 
 
 • 🎓 Estudante de Gestão da Tecnologia da Informação 4/5
+
+• 🎓 Generation Brasil - T27
 
 • 📍 São Paulo - SP
 
@@ -78,7 +81,7 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
  </div>
       
 ### Minhas informações aqui no GitHub:
-<div align = "center">
+<div align = "center" style="display: flex;>
 <a href="https://github.com/LucasLM1">
   <img height="162px" src="https://github-readme-stats.vercel.app/api?username=LucasLM1&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,4169E1,C71585,00008B" /></a>  <!-- do primeiro para o ultimo -->
 <a href="https://github.com/LucasLM1">
@@ -100,9 +103,13 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
   &nbsp; &nbsp;-->
   
 <p align="center">
- Quantidade de visitas no meu perfil 🕵 <br></p>
+  Quantidade de visitas no meu perfil 🕵 <br>
+</p>
+
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/LucasLM1/count.svg" /></p>
+   <img alingn="center" src="https://profile-counter.glitch.me/LucasLM1/count.svg" />
+</p>
+
 <p align="center">
 Obrigado e volte sempre! 😄
 </p>
