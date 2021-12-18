@@ -96,6 +96,9 @@ Estou utilizando o GitHub com o intuito de salvar os códigos dos meus programas
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&theme=tokyonight&layout=compact)](https://github.com/LucasLM1/github-readme-stats)
 -->
  
+ <!-- <img src="https://activity-graph.herokuapp.com/graph?username=LucasLM1&bg_color=0d1117&color=f90064&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="251px" />
+  &nbsp; &nbsp;-->
+  
 <p align="center">
  Quantidade de visitas no meu perfil 🕵 <br></p>
 <p align="center"> 
