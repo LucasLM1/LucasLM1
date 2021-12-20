@@ -99,13 +99,13 @@ Ultilizo o GitHub para salvar códigos de aplicações criadas tanto por mim qua
 -->
  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=LucasLM1&bg_color=0d1117&color=f90064&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="251px" />
   &nbsp; &nbsp;-->
-<!-- <p align="center">
+<p align="center">
   Quantidade de visitas no meu perfil 🕵 <br></p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/LucasLM1/count.svg" />
 </p>
 <p align="center">
 Obrigado e volte sempre! 😄
-</p> -->
+</p>
 <!-- ![Snake animation](https://github.com/LucasLM1/LucasLM1/blob/output/github-contribution-grid-snake.svg) -->
 <!-- <img src="https://github.com/bigboss2021/Turma27-MySQL/blob/main/teste/jbuffum_0871_gameboy_final.0.gif" alt="Joguim Valmir" width="900"> -->
