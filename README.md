@@ -24,11 +24,11 @@ Ultilizo o GitHub para salvar códigos de aplicações criadas tanto por mim qua
 #### 🔰 Sempre buscando novas maneiras de me tornar uma pessoa melhor 🔰
 • 🎓 Desenvolvedor Fullstack Java Jr. 
 
-• 🎓 Estudante de Gestão da Tecnologia da Informação 4/5
+• 🎓 Estudante de Gestão da Tecnologia da Informação 5/5.
 
-• 🎓 Generation Brasil - T27
+• 🎓 Generation Brasil - T27 - 2021.
 
-• 📍 São Paulo - SP
+• 📍 São Paulo - SP.
 
 ### Entre em contato comigo através das minhas redes sociais📲
 <div>
@@ -41,13 +41,13 @@ Ultilizo o GitHub para salvar códigos de aplicações criadas tanto por mim qua
 </a>   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 </div>
   
-<!--
+<!-- 
 <details>
   <summary> Minhas conquistas </summary>
    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord"/>     Negócio dos trofeus
 
 </details>
--->
+ -->
 
 ### Tecnologias, linguagens e frameworks que tenho conhecimento👩‍💻
 <div>
@@ -74,8 +74,9 @@ Ultilizo o GitHub para salvar códigos de aplicações criadas tanto por mim qua
   <img alt ="JQuery" src ="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt ="NodeJS" src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   
-  <!--<img alt ="NodeJS" src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <!--
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
  <img alt="PostgreeSQL" src ="https://img.shields.io/badge/PostgreeSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/-->
  </div>
