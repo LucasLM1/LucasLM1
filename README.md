@@ -91,12 +91,12 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/LucasLM1">
     <!-- Da primeira cor para a última -->
-    <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=LucasLM1&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,4169E1,C71585,00008B" />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=LucasLM1&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,4169E1,C71585,00008B" />
   </a>
 
   <a href="https://github.com/LucasLM1">
     <!-- Da última cor para a primeira -->
-    <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,00008B,C71585,4169E1" />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,00008B,C71585,4169E1" />
   </a>
 </div>
 
