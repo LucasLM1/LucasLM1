@@ -87,7 +87,9 @@ Here are some ideas to get you started:
  -->
       
 ### Minhas informações aqui no GitHub:
-<a href="https://github.com/LucasLM1">
+
+<div align="center">
+  <a href="https://github.com/LucasLM1">
     <!-- Da primeira cor para a última -->
     <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=LucasLM1&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=020024&text_color=ffffff&icon_color=020024&bg_color=4,4169E1,C71585,00008B" />
   </a>
@@ -96,6 +98,7 @@ Here are some ideas to get you started:
     <!-- Da última cor para a primeira -->
     <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=020024&text_color=ffffff&bg_color=1,00008B,C71585,4169E1" />
   </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/LucasLM1/">
@@ -115,11 +118,11 @@ Here are some ideas to get you started:
   </p>
   
   <p align="center"> 
-     <img alingn="center" src="https://profile-counter.glitch.me/LucasLM1/count.svg" />
+     <img src="https://profile-counter.glitch.me/LucasLM1/count.svg" />
   </p>
   
   <p align="center">
-  Obrigado e volte sempre! 😄
+      Obrigado e volte sempre! 😄
   </p>
 <!-- ![Snake animation](https://github.com/LucasLM1/LucasLM1/blob/output/github-contribution-grid-snake.svg) -->
 <!-- <img src="https://github.com/bigboss2021/Turma27-MySQL/blob/main/teste/jbuffum_0871_gameboy_final.0.gif" alt="Joguim Valmir" width="900"> -->
