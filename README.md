@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 • 💻 Desenvolvedor Front-end Jr. 
 
-• 🎓 Graduando de Gestão da Tecnologia da Informação 5/5.
+• 🎓 Graduado em Gestão da Tecnologia da Informação.
 
 • 🎓 Generation Brasil - T27 - 2021.
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </details>
  -->
 
-### Tecnologias, linguagens e frameworks que tenho conhecimento e venho aprimnorando com estudos👩‍💻
+### Tecnologias, linguagens e frameworks que tenho conhecimento e venho aprimorando com estudos👩‍💻
 <div>
 
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
