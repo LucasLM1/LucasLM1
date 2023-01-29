@@ -7,7 +7,8 @@
 
 
 #### 🔰 Sempre buscando novas maneiras de me tornar uma pessoa melhor 🔰
-• 💻 Desenvolvedor Fullstack Java Jr. 
+
+<!-- • 💻 Desenvolvedor Fullstack Java Jr. -->
 
 • 💻 Desenvolvedor Front-end Jr. 
 
