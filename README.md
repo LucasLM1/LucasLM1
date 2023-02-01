@@ -1,4 +1,4 @@
-### Olá, me chamo Lucas!
+### Olá, me chamo Lucas, mas pode me chamar de LM!
 ### Seja bem-vindo(a) ao meu GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px">
 
 <p align="justified">
