@@ -1,4 +1,4 @@
-### Olá, me chamo Lucas, mas pode me chamar de LM!
+### Olá, me chamo Lucas Souza, mas pode me chamar de LM!
 ### Seja bem-vindo(a) ao meu GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px">
 
 <p align="justified">
@@ -10,11 +10,11 @@
 
 <!-- • 💻 Desenvolvedor Fullstack Java Jr. -->
 
-• 💻 Desenvolvedor Front-end Jr. 
+• 💻 Desenvolvedor Front-end PL. 
 
 • 🎓 Graduado em Gestão da Tecnologia da Informação.
 
-• 🎓 Generation Brasil - T27 - 2021.
+<!--• 🎓 Generation Brasil - T27 - 2021. -->
 
 • 📍 São Paulo - SP.
 
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucxs.lm_">
   </a>
 
-  <a href="https://www.linkedin.com/in/lucas-souza-607776215/" alt= "LinkedIN" target= "_blank">
+  <a href="https://www.linkedin.com/in/lucaslmsc/" alt= "LinkedIN" target= "_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-souza-607776215/">
   </a>  
 
