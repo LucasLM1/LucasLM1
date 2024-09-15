@@ -14,6 +14,8 @@
 
 • 🎓 Graduado em Gestão da Tecnologia da Informação.
 
+• 🎓 Cursando Ciências da Computção 2/8.
+
 <!--• 🎓 Generation Brasil - T27 - 2021. -->
 
 • 📍 São Paulo - SP.
