@@ -10,11 +10,11 @@
 
 <!-- • 💻 Desenvolvedor Fullstack Java Jr. -->
 
-• 💻 Desenvolvedor Front-end PL. 
+• 💻 Desenvolvedor Web Front-end. 
 
 • 🎓 Graduado em Gestão da Tecnologia da Informação.
 
-• 🎓 Cursando Ciências da Computção 2/8.
+• 🎓 Cursando Ciências da Computção 3/8.
 
 <!--• 🎓 Generation Brasil - T27 - 2021. -->
 
