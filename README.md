@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=205&color=gradient&text=Lucas%20M.%20Souza%20|%20LM&textBg=false&fontColor=fff&fontSize=56&fontAlign=50&fontAlignY=25&animation=fadeIn&desc=Desenvolvedor%20Front-end%20%20|%20Shopify%20|%20VTEX%20IO%20e%20CMS&descSize=20&descAlign=51&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=203&color=gradient&text=Lucas%20M.%20Souza%20|%20LM&textBg=false&fontColor=fff&fontSize=56&fontAlign=50&fontAlignY=25&animation=fadeIn&desc=Desenvolvedor%20Front-end%20%20|%20Shopify%20|%20VTEX%20IO%20e%20CMS&descSize=20&descAlign=51&descAlignY=55"/>
 
 <!--
 ### Olá, me chamo Lucas Souza, mas pode me chamar de LM!
