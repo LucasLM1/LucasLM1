@@ -1,9 +1,13 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=205&color=gradient&text=Lucas%20M.%20Souza%20|%20LM&textBg=false&fontColor=fff&fontSize=56&fontAlign=50&fontAlignY=25&animation=fadeIn&desc=Desenvolvedor%20Front-end%20%20|%20Shopify%20|%20VTEX%20IO%20e%20CMS&descSize=20&descAlign=51&descAlignY=55"/>
+
+<!--
 ### Olá, me chamo Lucas Souza, mas pode me chamar de LM!
 ### Seja bem-vindo(a) ao meu GitHub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="24px">
 
 <p align="justified">
   Utilizo o GitHub para salvar códigos de aplicações criadas tanto por mim quanto em grupo, ajudar em resoluções de problemas, absorver novos tipos de conteúdos e conhecimentos, ajudar pessoas programadoras e claro, conhecer inúmeros projetos desenvolvidos pelas mesmas.😁
 </p>
+-->
 
 
 #### 🔰 Sempre buscando novas maneiras de me tornar uma pessoa melhor 🔰
@@ -84,18 +88,18 @@
 <div align="center">
   <a href="https://github.com/LucasLM1">
     <!-- Da primeira cor para a última -->
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=LucasLM1&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=FFFFFF&text_color=FFF&icon_color=020024&bg_color=4,4169E1,C71585,00008B" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=LucasLM1&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&&title_color=FFFFFF&text_color=FFF&icon_color=FFFFFF&bg_color=4,ff000000,e80808,ff0000" />
   </a>
 
   <a href="https://github.com/LucasLM1">
     <!-- Da última cor para a primeira -->
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=FFFFFF&text_color=FFF&bg_color=1,00008B,C71585,4169E1" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLM1&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&title_color=FFFFFF&text_color=FFF&bg_color=1,ff0000,e80808,ff000000" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/LucasLM1/">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasLM1&theme=blueberry&hide_border=true&background=355C7D00&stroke=4169E1&dates=4169E1" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasLM1&theme=blueberry&hide_border=true&background=355C7D00&stroke=4169E1&dates=ffffff" />
   </a> 
 </p>
 
