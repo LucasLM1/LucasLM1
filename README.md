@@ -18,7 +18,7 @@
 
 • 🎓 Graduado em Gestão da Tecnologia da Informação.
 
-• 🎓 Cursando Ciências da Computção 3/8.
+• 🎓 Cursando Ciências da Computção 4/8.
 
 <!--• 🎓 Generation Brasil - T27 - 2021. -->
 
