@@ -11,8 +11,7 @@
 Desenvolvedor **Front-end** especializado em **e-commerce** Shopify, VTEX IO e CMS
 com foco em **performance**, **experiências de interface** bem construídas e **código de qualidade**.
 
-📍 São Paulo, Brasil &nbsp;·&nbsp; 🎓 Ciências da Computação (6/8) 
-<!--&nbsp;·&nbsp;  💼 Aberto a novos projetos -->
+📍 São Paulo, Brasil &nbsp;·&nbsp; 🎓 Ciências da Computação (6/8) &nbsp;·&nbsp;  💼 Aberto a novos projetos 
 
 </div>
 
