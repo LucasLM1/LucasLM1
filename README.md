@@ -24,6 +24,7 @@ Trabalho transformando design em interfaces rápidas, acessíveis e bem acabadas
 - 🔭 Construindo interfaces de e-commerce com **Shopify, React / Next.js**
 - 🎨 Fã da fronteira entre **design** e a **engenharia front-end**
 - ⚡ Obcecado por **performance**, **animações** e **microinterações**
+- 📈 Focado em impulsionar a visibilidade das marcas aplicando técnicas avançadas de **SEO, AEO, GEO** e gestão de **Google Meu Negócio**
 - 💻 Cursando **Ciências da Computação (6/8)**
 - 🎓 Graduado em **Gestão da Tecnologia da Informação**
 - 🌐 Portfólio: **[lucaslm.dev](https://lucaslm.dev)**
@@ -68,6 +69,13 @@ Trabalho transformando design em interfaces rápidas, acessíveis e bem acabadas
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+**SEO & Descoberta**
+
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AEO](https://img.shields.io/badge/AEO-EA4335?style=for-the-badge)
+![GEO](https://img.shields.io/badge/GEO-FBBC05?style=for-the-badge)
+![Google Meu Negócio](https://img.shields.io/badge/Google_Meu_Negócio-34A853?style=for-the-badge&logo=google&logoColor=white)
+
 ---
 
 ### 🤖 IA no meu fluxo de trabalho
@@ -77,6 +85,7 @@ Uso inteligência artificial no dia a dia para acelerar desenvolvimento, revisar
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-1F1F1F?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_(Model_Context_Protocol)-5C3EE8?style=for-the-badge&logoColor=white)
 
 ---
 
